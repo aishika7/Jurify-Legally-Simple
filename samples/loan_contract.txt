@@ -1,0 +1,4 @@
+LOAN CONTRACT
+
+Loan amount INR 500000 at 10% annual interest.
+Repayment in 24 months.
